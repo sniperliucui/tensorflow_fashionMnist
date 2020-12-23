@@ -1,3 +1,3 @@
 # tensorflow_fashionMnist
 
-cnn识别fashionmnist
+识别fashionmnist
